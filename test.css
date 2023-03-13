@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+#btnAdd{
+    background-color: yellow;
+}
+
+#btnDel{
+    background-color: blue;
+}
+#btnUpdate{
+    background-color: green;
+}
